@@ -1,0 +1,25 @@
+:root {
+    --primary-color: #EE4D2D;
+    --header-color: linear-gradient(0, #fe6433, #f53e2d);
+    --white-color: #fff;
+    --fake-color: #FB9086;
+    --hover-text-color: rgba(256, 256, 256, 0.8);
+    --gray-color: #666;
+    --text-color: #333;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
